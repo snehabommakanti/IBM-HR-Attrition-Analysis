@@ -25,6 +25,10 @@ This project analyzes IBM's HR employee attrition dataset to uncover patterns an
 - Job role, environment satisfaction, and performance rating had strong correlation with attrition
 
 ---
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/6345ba0e-e4b1-4442-9024-2ce8da7dbee1) ![image](https://github.com/user-attachments/assets/f717d18c-cd58-496e-9a3a-0047702600d9)
+
+
 
 ## 📈 Dashboards & Visuals
 - Attrition trends by department and job role
